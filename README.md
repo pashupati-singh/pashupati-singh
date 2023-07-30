@@ -13,7 +13,7 @@
 
 <p align="left">
     <a href="https://github.com/pashupati-singh">
-        <img src="https://komarev.com/ghpvc/?username=omkarsw2&label=Profile%20views&color=0e75b6&style=flat" alt="pashupati" />
+        <img src="https://komarev.com/ghpvc/?username=pashupati-singh&label=Profile%20views&color=0e75b6&style=flat" alt="pashupati" />
     </a>
     <a href="https://github.com/pashupati-singh?tab=followers">
         <img src="https://img.shields.io/github/followers/pashupati-singh?label=Followers&style=social" alt="followers-count">
